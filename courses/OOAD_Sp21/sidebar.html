@@ -1,0 +1,76 @@
+<!-- Sidebar -->
+<!-- Include the Script -->
+<script src="js/sidebar-highlight.js"></script>
+<div id="sidebar-toggle" >
+    <!-- Simple Bootstrap Button -->
+    <a id="sidebar-toggle-button" class="btn btn-default">Toggle Navigation
+    </a>
+</div>
+<div id="sidebar-wrapper" class="navbar navbar-default">
+    <ul class="sidebar-nav">
+        <li class="sidebar-brand">
+            <a href="index.html">
+                <img class="image-responsive" style="max-height: 65px" src="img/osu-tag.png" />
+                CS 361
+            </a>
+        </li>
+        <li> <a href="index.html">Home</a> </li>
+        <li> Read Me </li>
+
+        <li> <a href="schedule.html">Schedule</a> </li>
+        <li> <a href="http://www.piazza.com/oregonstate/winter2015/cs361/home">Piazza</a> </li>
+        <li> <a href="grading.html">Grading & Policy</a> </li>
+        <li> <a href="textbooks.html">Textbooks</a> </li>
+        <li> <a href="faq.html">FAQ</a> </li>
+        <li> <a href="clicker.html">NXT Clicker</a> </li>
+        <li> <a href="staff-comm.html">Communication with the Staff</a> </li>
+        <li> <a href="bug.html">Bug of the Week</a></html>
+
+        <li> Assignments </li>
+        <li><a href="hw1.html">Homework 1</a></li>
+        <li><a href="hw1-pairs.html">Homework 1 pairs</a></li>
+        <li><a href="hw2.html">Homework 2</a></li>
+        <li><a href="hw3.html">Homework 3</a></li>
+        <li><a href="hw4.html">Homework 4</a></li>
+
+        <li> Advanced Composition </li>
+        <li><a href="writing.html">Writing assignments</a></li>
+
+        <li> Projects </li>
+        <li><a href="milestone1.html">Milestone 1</a></li>
+        <li><a href="milestone2.html">Milestone 2</a></li>
+        <li><a href="milestone3.html">Milestone 3</a></li>
+        <li><a href="milestone4.html">Milestone 4</a></li>
+
+        <li>Final Project</li>
+        <li><a href='final-submission.html'>Final Project Submission</a></li>
+        <li><a href='final-documentation.html'>Final Documentation</a></li>
+        <li><a href='final-code.html'>Final Code Submission</a></li>
+
+        <li> Exam </li>
+        <li><a href="final-exam.html">Final Exam</a></li>
+    </ul>
+</div>
+<!-- /#sidebar-wrapper -->
+
+<script>
+$(function(){
+  function stripTrailingSlash(str) {
+    if(str.substr(-1) == '/') {
+      return str.substr(0, str.length - 1);
+    }
+    return str;
+  }
+
+  var url = window.location.pathname;
+  var activePage = stripTrailingSlash(url);
+
+  $('.nav li a').each(function(){
+    var currentPage = stripTrailingSlash($(this).attr('href'));
+
+    if (activePage == currentPage) {
+      $(this).parent().addClass('active');
+    }
+  });
+});
+</script>
