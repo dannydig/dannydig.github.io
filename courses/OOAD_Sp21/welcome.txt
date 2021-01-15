@@ -1,0 +1,57 @@
+I am Prof Danny Dig, and I'll be teaching CSCI 4448/5448. I want to personally
+welcome you to OO Analysis and Design and to wish you a Happy New Year!
+
+I am excited to teach this class. We be doing a few things differently
+from other classes to make our class more interactive and participatory. You
+will have the opportunity to continuously share your opinions in class
+through iClicker and get instant feedback. You will be engaged in an
+active learning environment where you learn from many sources, including
+your peers in class. I will also interview in class (through Zoom) some of 
+the most famous industry leaders, book authors, and alumni.
+
+Initially, we will be developing a project in Java and Intellij IDEA using Test Driven 
+Development and eXtreme Programming. Afterwards, in the second half of the class you will
+have your opportunity to select a variety of technologies. You are expected to follow an 
+organized software development process and ultimately deliver a 
+polished product with emphasis on good design, clean code, 
+sufficient testing, and proper documentation.
+
+Some logistics for the first week of class. The first class
+is on Fri, Jan 15th, 15:00-15:50 Mountain Time.
+
+- the live lecture will be on Zoom. You are encouraged to attend even if
+you are actually registered for the asynchronous section of the class. The Zoom
+link is set up so that you need to use your colorado.edu credentials:
+https://cuboulder.zoom.us/j/96158358156
+
+- we will be using iClickers starting with the first day of class so
+make sure that you set up your clicker account before class so that you can 
+respond to polls: https://danny.cs.colorado.edu/courses/OOAD_Sp21/clicker.html
+
+- the first homework is due very soon, on Fri, Jan 22nd.
+For this homework you will submit a plan for the software project, but 
+also get introduced to Java, Object-Oriented Programming, and Intellij IDEA. We
+will split you in pairs, though you can still change your partner. If you
+already have a partner that you worked with in the past, please let the TA, 
+Dwight Browne (Dwight.Browne@colorado.edu) know by Sunday, Jan 17th. 
+Send him an email entitled "OOAD HW1 pairs" and list the CU IDs of the two people 
+in the pair. Anybody whom we have not heard from we will assign randomly into 
+pairs on Tue, Jan 19th. More info about this homework will be available 
+on our course webpage.
+
+Our course webpage contains a wealth of information, including how to
+communicate with the staff (that is, through Piazza), class schedule,
+textbooks, resources on clicker, etc. The webpage will contain
+more information by the end of the week (though I am sending the
+link now): https://danny.cs.colorado.edu/courses/OOAD_Sp21
+
+
+Looking forward to meeting you in class or on Piazza,
+Prof Danny Dig
+---
+Associate Professor, CS Department at University of Colorado,
+Adjunct Professor, CS Department, University of Illinois, OSU
+http://danny.cs.colorado.edu
+
+Executive Director and Founder, Center on Pervasive Personalized Intelligence (PPI)
+http://ppicenter.org
