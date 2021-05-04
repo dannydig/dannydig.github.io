@@ -1,0 +1,21 @@
+Assistant for Research on Analyzing ML frequent change patterns
+
+
+#1. Job duties:
+- Analyzing and identifying ML-specific frequent code change patterns in open-source ML code bases
+- Assisting in empirical evaluation of the research tools and empirical findings
+- Assisting in writing a conference paper presenting the results
+
+#2. Qualifications:
+- experience with writing ML codebases
+- experience in using ML frameworks such as TensorFlow, PyTorch, NumPi. 
+- professional software engineering experience as evidenced by working on industrial projects
+- strong verbal and written communication skills
+    
+#3. Pay rate or range:
+
+#4. How to apply for the job:
+- email Professor Danny Dig (danny.dig@colorado.edu), and include your CV, and the name and
+contact information for 4 references that know your professional work well.
+
+
