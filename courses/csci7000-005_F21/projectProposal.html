@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+   <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <title>CSCI 7000-025 Spring 2020</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="container">
+         <!-- Page Title -->
+        <h1> CSCI 7000-005 Fall'21 Project Proposal</h1>
+        <!-- End Page Title -->
+        <!-- Nav bar -->
+        <div>
+           <nav class="navbar navbar-default navbar-static">
+                <div class="container">
+                    <ul class="nav navbar-nav">
+                        <li><a href="./index.html">Home</a></li>
+                        <li><a href="./syllabus.html">Syllabus</a></li>
+                        <li><a href="./researchProject.html">Research Project</a></li>
+                        <li><a href="./paperCritiques.html">Paper Critiques</a></li>
+                        <li><a href="./paperPresentation.html">Paper Presentation</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <div>
+            <p>Project ideas are due to be presented in class on TBA. When you pitch your project idea, use this template:
+            </p>
+            <ul><li>what is the problem you are trying to solve?
+            </li><li>why is the problem important to solve?
+            </li><li>what is the current state-of-the-practice or state-of-the-art in solving this problem, and what are its limitations?
+            </li><li>what is your proposed solution?
+            </li><li>how would you convince the professor, classmates, and the research community that your solution is successful?
+            </li></ul>
+        </div>
+        
+        <h3>SUBMISSION PROCEDURE</h3>
+        <div>
+            You need to submit a PDF file (e.g. you can use PowerPoint or a Text Document, but please convert them to PDF) addressing the points above. Submit the PDF on Canvas, before 12PM on TBA.
+        </div>
+        
+        <h3>PRESENTATION PROCEDURE</h3>
+        <div>
+            <p>
+                In class, each of you gets 2 minutes to pitch a project idea. Your proposal will be preloaded with all the PDF slides on the professor's laptop.
+            </p>
+            <p>
+                Project ideas proposed by professor:
+            </p>
+            
+            <ul class="spacedList">
+                <li> Novel usage of sensors data from an installation of IoT sensors. For example, monitoring and predicting air quality in a Smart City like Denver (sensor data available from the City of Denver).
+                <li> Nowadays, centralized applications, written to run on a single node without accessing any cloud-based services, are in a minority. Even the simplest of mobile applications access some remote services. However, the distribution decisions made at design time are often suboptimal. For example, clients are often underutilized, while servers are overburdened (or the other way around). It would be nice to conduct a study to examine how mobile/distributed apps use resources (both local and remote), identify the cases when the distribution decisions turn out suboptimal, and then refactor the suboptimalities by hand, recording the required program transformations. 
+                </li><li>inspired/motivated from the findings in the above project, design an automated refactoring, e.g., Cloud Refactoring, to migrate client functionality to a cloud. Another project idea is the opposite refactoring, Component Insourcing, which migrates cloud functionality to a client. 
+                </li><li>when mobile apps load a page which contains a JS library, the whole library is packaged as a single file (e.g., the JQuery library comes as one single JS file with many functions). The app will be slow, because it tries to parse/load a lot of content. However, a given app might only use a very small subset of the functions from the library. This project will determine how to speed up page loads on smartphone apps by carving an app-specific version of a JS library.
+                </li><li>another project on improving responsiveness by improving the load time of the first page: rather than easgerly loading all functions (even those that are not needed on the first screen), determine the dependency of functions and only load the ones required for the first page
+                </li><li>conduct an empirical study to find performance anti-patterns on IoT devices
+                <li>conduct an empirical study to find energy anti-patterns on IoT devices
+            </li>
+            </li></ul>
+            
+        </div>
+    </div>
+</body>
+</html>
