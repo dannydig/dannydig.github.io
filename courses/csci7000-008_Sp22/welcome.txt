@@ -1,19 +1,23 @@
-Dear CSCI 7000-025 student,
+Dear students in Sw Dev for IoT grad course,
 
-I am Prof Danny Dig, and I am excited to teach the class on Pervasive
-Personalized Intelligence for IoT Systems.
-It was great to see you yesterday in class and interact with you.
+I am Prof Danny Dig, and I am excited to teach the class on Software
+development for IoT Systems (CSCI 7000-008). I am looking forward to
+seeing you this Tue on Zoom for our first day of class. I was so looking
+forward to meet you in person but this has to wait until CU resumes
+classes in person.
+
 
 We are doing a few things differently from other classes that you took
 in the past, so please pay attention to the instructions for this first
-week of class. Also notice that in order to be enrolled and be successful
-in this class, you need to have a good foundation of computer science. 
-The prerequisites are the core undergrad CS classes or a solid experience
-of industrial software engineering. If you are not sure about any of
-these, please come and speak with me after the class.
+week of class. Also notice that in order to be enrolled and be
+successful in this class, you need to have a good foundation of computer
+science. The prerequisites are the core undergrad CS classes or a solid
+experience of industrial software engineering (or experience in various
+application fields for IoT). If you are not sure about any of these,
+please  speak with me after the class.
+
 
 ABOUT THE COURSE
-
 The purpose of this research course is to expose students to seminal
 topics and recent trends in the field of IoT.
 
@@ -28,33 +32,43 @@ application. This will enable an entirely new class of applications by
 generating business intelligence that is predictive instead of reactive,
 thus making processes more efficient and saving time, energy, and money.
 
-In this highly interactive class we will be investigating (i) innovative
-future use of IoT software systems and (ii) the research technical
-thrusts that enable the exciting applications of the future. Our
-exploration will consist of in-class discussions of the literature and
-team projects that encourage risk taking.
+In this highly interactive, Seminar-style class featuring
+Instructor-guided exploration and student-led discussions, we will be
+investigating (i) innovative use of IoT software systems (compelling
+applications) and (ii) the research technical thrusts that enable the
+exciting applications of the future. Our exploration will consist of
+in-class discussions of the literature, interactions with industry
+thought leaders, and team projects that encourage risk taking.
 
 The course will offer an opportunity for students to pursue
 research-oriented or novel industrial term projects in small teams (2-3
 students). Students may pursue any project of their choosing that
 explores the intersection of IoT systems with one of the following
-thrusts: ML/AI, SE, PL, Security/Privacy, Human Factors.
+thrusts: ML/AI, Edge Computing, SE, PL, Security/Privacy, Human Factors.
+
+The course will offer several opportunities for interactions with the
+movers and shakers in IoT from industry and government research labs.
+Prof Dig will facilitate discussions with industry executives that are
+partnering with the PPICenter.org headquartered at CU, led by Prof Dig.
+The class will also feature live discussions with the key industry
+thought leaders from the IoT World, the largest IoT industry tradeshow
+in the world.
 
 COURSE OBJECTIVES
-- expand student's knowledge more broadly about IoT research & practice
-- develop critical thinking abilities by being able to assess the quality
-of published research and pose new research questions
+
+- expand student's knowledge more broadly about IoT research & practice through reading research papers and industry surveys
+- develop critical thinking abilities by being able to assess the quality of published research and pose new research questions
 - practice giving scientific presentations and teaching others
-- engage in active learning activities in class, such as research discussions
-- practice developing a research or novel-industrial project through all
-its stages: formulating a research problem, posing research questions,
-gathering related work, designing a solution, evaluating the solution
-empirically, writing a research paper have fun learning
+- engage in active learning activities in class, such as student-guided discussions on research and applications for IoT
+- practice developing a research or novel-industrial software development project through all its stages: formulating a research problem, posing research questions, gathering related work, designing a solution, evaluating the solution empirically, writing a research paper
+- practice engaging in dialogue with C-level executives from the various IoT verticals (smart transportation, precision ag, smart manufacturing, digital health, etc).
+- have fun learning
 
 
 Some logistics for the first week of class. The first class
-was yesterday on Mon, Jan 13, 16:00-17:15, in ECCR 151.
-Next we will meet this Wed, Jab 15, at the same time and location as yesterday.
+will be held this Tue, Jan 11 from 2-3:15pm on Zoom 
+(VIP: you need to login with your CU Boulder credentials on Zoom):
+https://cuboulder.zoom.us/j/96670974495 
 
 Here are some items for you to accomplish right after the first
 class:
@@ -63,22 +77,19 @@ class:
 Our course webpage contains a wealth of information, including how to
 communicate with the staff and other colleagues (e.g., through Piazza),
 readings schedule for the first meetings, etc:
-https://danny.cs.colorado.edu/courses/csci7000-025_S20/
+https://danny.cs.colorado.edu/courses/csci7000-008_Sp22/
 
 2) Since we will read and discuss several research papers in this class
-(we will read and conduct research on IoT), read this excellent resource on 
+(we will read and conduct research and novel development on IoT), read this excellent resource on 
 how to Read an Engineering Research paper (by William Griswold):
 http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html
 
 3) Sign up on Piazza:
-https://piazza.com/colorado/spring2020/csci7000025
-
+http://piazza.com/colorado/spring2022/csci7000008
 After this email, all the communication will be on Piazza.
 
-Also, if you have not already signed up for our class, please do this
-soon as this helps us and the administrators with the class logistics.
 
-Looking forward to seeing you in class this Wed.
+Looking forward to seeing you in class this Tue.
 
 
 Danny Dig
