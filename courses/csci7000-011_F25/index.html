@@ -1,0 +1,426 @@
+﻿<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <title> CSCI 7000-11 Fall 2025: GenAI-powered Software Engineering</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="container">
+        <!-- Page Title -->
+        <h1> CSCI 7000-11 Fall 2025: GenAI-powered Software Engineering</h1>
+        <!-- End Page Title -->
+        <!-- Nav bar -->
+        <div>
+            <nav class="navbar navbar-default navbar-static">
+                <div class="container">
+                    <ul class="nav navbar-nav">
+                        <li><a href="./index.html">Home</a></li>
+                        <li><a href="./syllabus.html">Syllabus</a></li>
+                        <li><a href="./researchProject.html">Research Project</a></li>
+                        <li><a href="./paperCritiques.html">Paper Critiques</a></li>
+                        <li><a href="./paperPresentation.html">Paper Presentation</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <!-- End Nav bar --> 
+      <h3>TIME AND LOCATION</h3>
+        <div>
+                Tue and Thu, 2:00-3:15 PM<br />
+                <!-- <p style="color:red">Based on CU's starting the Spring semester remote for the first two weeks, we will meet on Zoom (this Zoom link requires authenticating with your CU Boulder credentials).</p> <a href="https://cuboulder.zoom.us/j/96670974495">https://cuboulder.zoom.us/j/96670974495</a> <br />
+                Once we resume classes in person, --> 
+                <p>Meets Remotely on Zoom, except when in person (e.g, Aug 21, Mid semester, Dec 2 or 4, 2025): Discovery Learning Center (DLC) 1B70<br /> 
+              
+            
+        </div>
+    
+    <h3>INSTRUCTOR</h3>
+    <div>
+        <p>
+        Prof. <a href="http://danny.cs.colorado.edu">Danny Dig</a> (<a href="mailto:danny.dig@coloradoedu">danny.dig@colorado.edu</a>)
+        <br />Office: On Zoom
+        <br />Phone: (303) 492-1293
+        <br />Office Hours: right after class
+        </p>
+    </div>
+    
+    <h3>Prerequisites</h3>
+    <div>
+            <p>
+               Students should have basic knowledge of Computer Science undergrad classes, including software engineering, programming languages, systems, ML/AI as demonstrated by undergrad courses at CU. This is <b> NOT </b> an introductory grad course to Software Engineering, for those students we recommend other grad courses such as Foundations of Software Engineering (CSCI 5828). This course assumes you are a competent software engineer already -- we are looking into how you can augment your current skills to include GenAI supported software development.  
+               If you are not sure whether you can attend this course, please consult the instructor (email: danny.dig@colorado.edu)
+            </p>
+    </div>
+
+
+    <h3>ABOUT THE COURSE</h3>
+    <div>
+        <p>The purpose of this research course is to expose students to seminal topics and recent
+        trends in the field of GenAI for Software Engineering.   
+
+
+<p>
+Software development is undergoing a profound transformation as GenAI becomes increasingly integrated into development 
+practices. This brand new course ensures that our students are not only aware of these developments but are also 
+prepared to lead in this new era. In this class, students (i) understand the capabilities and limitations of GenAI 
+systems deployed in production or in research; (ii) Learn to critically assess AI-assisted development workflows; (iii) Gain hands-on experience using GenAI in tasks such as testing, debugging, code synthesis, and refactoring.
+
+       
+       <p> In this highly interactive, Seminar-style class featuring Instructor-guided exploration and student-led discussions, we will be investigating 
+        (i) innovative use of GenAI in software engineering processes and tasks (compelling applications) and (ii) the research technical thrusts that enable 
+        the exciting applications of the future. Our exploration will consist of in-class 
+        discussions of the cutting-edge research literature, interactions with industry thought leaders, and team projects that encourage risk taking.
+        </p>
+        <p>The course will offer an opportunity for students to pursue research-oriented or novel industrial
+        term projects in small teams (3-4 students). Students may pursue any project of
+        their choosing that explores the intersection of GenAI with processes and tools used in Software Engineering. </p>
+        <p>The course will offer several opportunities for interactions with the movers and shakers in GenAI from industry and academic research labs. 
+    <h3>COURSE OBJECTIVES</h3>
+        <ul><li>expand student's knowledge more broadly about GenAI-based Software Engineering research & practice through reading research papers and industry surveys
+        </li><li>develop critical thinking abilities by being able to assess the quality of published research and pose new research questions
+        </li><li>practice giving scientific presentations and teaching others
+        </li><li>engage in active learning activities in class, such as student-guided discussions on research and applications for GenAI in Software Engineering
+        </li><li>practice developing a research or novel-industrial software development project through all its stages: formulating a research problem, posing research questions, gathering related work, designing a solution, evaluating the solution empirically, writing a research paper
+        </li><li>practice engaging in dialogue with thought leaders in GenAI Software Engineering.
+        </li><li>have fun learning 
+        </li></ul>
+        <p></p><strong><a href='./syllabus.html'>Course Syllabus</a></strong></p>
+    </div>
+    <h3>SCHEDULE</h3>
+    This is a tentative schedule to give you an idea of the topics that we study in the class. Some of the assigned papers are likely to change based on the projects that students work on, once we finalize the list of course projects.
+    <div>
+        <table class="table table-hover" >
+        <tr>
+            <th class="col-md-1"><strong>Date</strong></th>
+            <th class="col-md-2"><strong>Presenter</strong></th>
+            <th class="col-md-9"><strong>Readings</strong></th>
+        </tr>
+        <tr>
+            <td> 08/21</td>
+            <td> Danny Dig </td>
+            <td> 
+                <ul>
+                <li>Course Introduction and discussing your expectations. </li>
+                <li>Read this excellent resource on how to <a class='urllink' href='http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html' rel='nofollow'>Read an Engineering Research paper</a> (by William Griswold). </li>
+                <li>Sign up on Piazza (TBA soon). <!--  <a class='urllink' href='http://piazza.com/colorado/fall2025/TBD' rel='nofollow'>Piazza</a>.</li> -->
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td> 08/26</td>
+            <td> Danny Dig </td>
+            <td> 
+                <ul>
+                <li> Read two papers: (1) <a href="https://arxiv.org/abs/2308.10620">Large Language Models for Software Engineering: A Systematic Literature Review</a> by Hou et al., TOSEM 2024</li>
+                <li> Read: (2) <a href="https://arxiv.org/abs/2310.03533">Large Language Models for Software Engineering: Survey and Open Problems</a> by Fan et al., ICSE 2023: Future of Software Engineering. </li>
+                <li> Afterwards, write a <a href="./paperCritiques.html">paper critique</a> for each paper. After you write the paper critique, please submit it <a href="https://TBD">here on Canvas</a> (due by Mon, Aug 25 at 5pm).</li>
+                <li>Read course <a href="./syllabus.html">syllabus</a> (and other info on our class webpage). </li>
+                
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>08/28</td>
+            <td>
+            Danny Dig 
+            </td>
+            <td> 
+                <ul>
+                <li> <a href="https://dl.acm.org/doi/10.1145/3643755"> Unprecedented Code Change Automation: The Fusion of LLMs and Transformation by Example</a> by Dilhara et al., FSE'24
+                <li> <a href="https://ieeexplore.ieee.org/document/10795061">Next-Generation Refactoring: Combining LLM
+Insights and IDE Capabilities for Extract Method</a> by Pomian et al., ICSME'24.
+                 </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>09/02</td>
+            <td> Danny Dig 
+            </td>
+            <td><ul>
+            <li><a href="https://danny.cs.colorado.edu/papers/ICSME25_MM-Assist.pdf">Together We Are Better: LLM, IDE and Semantic Embedding to Assist Move Method Refactoring</a> by Bellur et al., ICSME'25  </li>
+            <li><a href="https://conf.researchr.org/details/icsme-2025/icsme-2025-papers/26/The-Impact-of-Fine-tuning-Large-Language-Models-on-Automated-Program-Repair"> The Impact of Fine-tuning Large Language Models on Automated Program Repair</a>. By Machacek et al., ICSME'25. 
+            <li><a href="https://arxiv.org/abs/2410.12046">Towards Realistic Evaluation of Commit Message Generation by Matching Online and Offline Settings</a> by Tsvetkov et al., ICSE'25     </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>09/04</td>
+            <td>Danny Dig</td>
+            <td> <ul> 
+            <li><a href="TBA">Multi-Agent Framework for Coordinated Refactoring</a> by Bellur et al., Writers' Workshop.</li>
+        	</ul></td>
+        </tr>
+        
+        <tr>
+            <td>09/09</td>
+            <td>Student 1, Student 2</td>
+            <td> <ul> 
+            <li> <a href="https://conf.researchr.org/details/icsme-2025/icsme-2025-papers/27/A-Taxonomy-of-Inefficiencies-in-LLM-Generated-Code">A Taxonomy of Inefficiencies in LLM-Generated Code.</a> By Abbassi et al., ICSME'25.</li>
+            <li> <a href="https://conf.researchr.org/details/icsme-2025/icsme-2025-papers/31/Can-LLMs-Update-API-Documentation-">Can LLMs Update API Documentation?</a> By Lee et al., ICSME'25.</li>
+        	</ul></td>
+        </tr>
+        
+        <tr>
+            <td>09/11</td>
+            <td>All Students</td>
+            <td> <ul>
+              <li><a class="wikilink" href="./projectProposal.html">Pitch Project Idea</a> </li>
+            </td>
+        </tr>
+        
+         <tr>
+            <td>09/16</td>
+            <td>Students</td>
+            <td><ul>
+             <li> Project Bazaar</li>
+             <li><a href="./projectTeams.html">Form project teams</a></li>
+            </ul>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>09/18</td>
+            <td>Students</td>
+            <td><ul>
+             <li> Project Bazaar</li>
+             <li><a href="./projectTeams.html">Form project teams</a></li>
+            </ul>
+            </td>
+        </tr>
+        
+        
+        
+         <tr>
+            <td>09/23</td>
+            <td>Student 1, Student 2</td>
+            <td> <ul>
+             <li> <a href="https://arxiv.org/abs/2404.05427">AutoCodeRover: Autonomous program improvement</a> by Zhang et al., in ISSTA'24 </li>
+            <li> <a href="https://arxiv.org/abs/2403.17134">RepairAgent: An Autonomous, LLM-Based Agent for Program Repair </a> by Bouzenia et al., ICSE'25</li>
+            </ul></td>
+        </tr>
+        
+        <tr>
+            <td>09/25</td>
+            <td>Everyone</td>
+            <td> <ul>
+            <li> <a href='./milestone1.html' rel='nofollow'>Milestone 1</a>
+            </td>
+        </tr>
+        
+         <tr>
+            <td>10/16</td>
+            <td>Everyone</td>
+            <td> <ul>
+            <li> <a href='./milestone2.html' rel='nofollow'>Milestone 2</a>
+            </td>
+        </tr>
+       
+       <tr>
+            <td>11/06</td>
+            <td>Everyone</td>
+            <td> <ul>
+            <li> <a href='./milestone3.html' rel='nofollow'>Milestone 3</a>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>12/02</td>
+            <td>Everyone</td>
+            <td> <ul>
+            <li> <a href='./milestone4.html' rel='nofollow'>Milestone 4</a>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>12/07</td>
+            <td>No final exam.</td>
+            <td> <ul>
+            <li> <a href='./finalProject.html' rel='nofollow'>Submit final project</a>
+            </td>
+        </tr>
+       <!-- 
+        <tr>
+            <td>02/22</td>
+            <td> Dorin</td>
+            <td> <ul>
+            <li> <a href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1723&context=hc_pubs">An Empirical Study of Refactorings and Technical Debt in Machine Learning Systems</a>, by Tang et. al, ICSE'21.
+            </td>
+        </tr>
+        
+         <tr>
+            <td>02/24</td>
+            <td>Everyone, Danny Dig</td>
+            <td> <ul>
+            <li> featuring coaching conversations with <a href="https://valorieburton.com/">Valorie Burton</a> as part of the Black History Month.</li>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>03/01</td>
+            <td> Carla</td>
+            <td> <ul>
+            <li> <a href="https://danny.cs.colorado.edu/papers/LearningTypeChanges_ICSE22.pdf
+">Inferring and Applying Type Changes</a>, by Ketkar et. al, ICSE'22.
+            </td>
+        </tr>
+        
+        <tr>
+            <td>03/02</td>
+            <td>Everyone, Danny Dig</td>
+            <td> <ul>
+            <li> Discussion Chapter 2: Put Your Dream to the Test.</li>
+            </td>
+        </tr>
+        
+        
+        
+        
+        
+        <tr>
+            <td>03/10</td>
+            <td>Everyone</td>
+            <td> <ul>
+            <li> <a href="./milestone2.html">Project Milestone 2</a> </li>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>03/15</td>
+            <td>Nikhith</td>
+            <td> <ul>
+            <li> <a href="https://arxiv.org/pdf/2107.05396.pdf">Data-Driven Extract Method Recommendations: A Study at ING</a> by David van der Leij et al., FSE'21. </li>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>03/17</td>
+            <td>Everyone, Danny Dig</td>
+            <td> <ul>
+            <li> Discussion Chapter 3: Put Your Dream to the Test.</li>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>03/22</td>
+            <td>Spring Break</td>
+            <td> <ul>
+            <li> Spring Break</li>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>03/24</td>
+            <td>Spring Break</td>
+            <td> <ul>
+            <li> Spring Break</li>
+            </td>
+        </tr>
+        
+         <tr>
+            <td>03/29</td>
+            <td>Everyone</td>
+            <td> <ul>
+            <li> <a href="./milestone3.html">Project Milestone 3</a> </li>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>03/31</td>
+            <td>Fei, Everyone</td>
+            <td> <ul>
+            <li> Discussion Chapter 4: Put Your Dream to the Test. + Fei presenting "An Evaluation of Edge Computing Middlewares for Constructing IoT Applications" </li>
+            </td>
+        </tr>
+        
+        Bringing IoT to Sports Analytics
+        
+        <tr>
+            <td>04/05</td>
+            <td>Huilin, Anuhia</td>
+            <td> <ul>
+            <li> Bringing IoT to Sport Analytics (Gowda et al., NSDI'17) </li>
+            <li> Putting mood in context: Using smartphones to examine how people feel in different locations (Sandstrom et al, Journal of Research in Personality) </li>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>04/07</td>
+            <td>Industry Executives Panel</td>
+            <td> <ul>
+            <li> <a href="https://hopin.com/events/nsf-center-on-pervasive-personalized-intelligence-meeting-workshop/registration">Personalization and IoT in the Automotive Industry</a> </li>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>04/12</td>
+            <td>Kevin, Neerab</td>
+            <td> <ul>
+            <li> Protecting Privacy in Continuous Location- Tracking Applications (Gruteser et al, IEEE Security and Privacy) </li>
+            <li> Blockchain for the IoT and industrial IoT: A review (Wang et al., Internet of Things Journal) </li>
+            </td>
+        </tr>
+        
+         <tr>
+            <td>04/14</td>
+            <td>Fei, Everyone</td>
+            <td> <ul>
+            <li> Discussion Chapter 6: The People Question. </li>
+            </td>
+        </tr>
+        
+         <tr>
+            <td>04/19</td>
+            <td>Everyone</td>
+            <td> <ul>
+            <li> <a href="./milestone4.html">Project Milestone 4</a> </li>
+            </td>
+        </tr>
+        
+         <tr>
+            <td>04/21</td>
+            <td>Everyone</td>
+            <td> <ul>
+            <li> Interview with <a href="https://www.linkedin.com/in/steve-brumer-9b737a/">Steve Brumer</a>, IoT Executive of the Year and IoT Thought Leader 
+            <li> Discussion Chapter 7: The Cost Question. </li>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>04/26</td>
+            <td> Ange</td>
+            <td> Intelligent Recognition of Sports Teaching Video Based on Computer Vision Technology (by Zhou, ICISCAE'21)<ul>  
+            <li> </li>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>04/28</td>
+            <td> Everyone</td>
+            <td> <ul>  
+            <li> Last Day of Class, Discussion Chapter 10: The Significance Question</li>
+            </td>
+        </tr>
+        
+         <tr>
+            <td>05/03</td>
+            <td>No final exam.</td>
+            <td> <ul>
+            <li> <a href='./finalProject.html' rel='nofollow'>Submit final project</a>
+            </td>
+        </tr>
+   -->
+        </table>
+    </div>
+    
+    
+    </div>
+</body>
+</html>
