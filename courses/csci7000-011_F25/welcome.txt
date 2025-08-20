@@ -1,74 +1,80 @@
-Dear students in Sw Dev for IoT grad course,
+Dear grad students in GenAI-powered Software Engineering course,
 
-I am Prof Danny Dig, and I am excited to teach the class on Software
-development for IoT Systems (CSCI 7000-008). I am looking forward to
-seeing you this Tue on Zoom for our first day of class. I was so looking
-forward to meet you in person but this has to wait until CU resumes
-classes in person.
-
+I am Prof Danny Dig, and I am excited to teach the class on
+GenAI-powered Software Engineering (CSCI 7000-011). As I am living out
+of state, I am flying now to CU specifically to meet you and I am
+looking forward to seeing you this Thu (Aug 21st at 2pm) in Discovery
+Learning Center (DLC) 1B70 for our first day of class. The majority of
+the classes going forward will be on Zoom --
+https://cuboulder.zoom.us/j/98033152097 (you need to authenticate with
+your colorado.edu credentials). For this very first class on Thu, Aug
+21st at 2pm I invite you to connect and meet in person. 
 
 We are doing a few things differently from other classes that you took
 in the past, so please pay attention to the instructions for this first
-week of class. Also notice that in order to be enrolled and be
-successful in this class, you need to have a good foundation of computer
-science. The prerequisites are the core undergrad CS classes or a solid
-experience of industrial software engineering (or experience in various
-application fields for IoT). If you are not sure about any of these,
-please  speak with me after the class.
+week of class. Please notice that in order to be enrolled and be
+successful in this class, you need to have a good foundation of Software
+Engineering, as demonstrated by undergrad courses at CU. This is NOT an
+introductory grad course to Software Engineering, for those students we
+recommend other grad courses such as Foundations of Software Engineering
+(CSCI 5828). This course assumes you are a competent software engineer
+already -- we are looking into how you can augment your current skills
+to include GenAI supported workflows. If you are not sure about any of
+these, please  speak with me after the class.
 
 
 ABOUT THE COURSE
 The purpose of this research course is to expose students to seminal
-topics and recent trends in the field of IoT.
+topics and recent trends in the field of GenAI for Software Engineering.
 
-A new era in computing is emerging, marked by the digitalization and
-connection of many aspects of the physical world. Coupled with advances
-in AI, highly-connected computing sparks a technological revolution
-rivaling the industrial revolution in breadth of impact. The next big
-growth in IoT systems will come from pushing pervasive personalized
-intelligence to the edge of the network, where latency is critical, and
-mobility, privacy, and context awareness are essential qualities of the
-application. This will enable an entirely new class of applications by
-generating business intelligence that is predictive instead of reactive,
-thus making processes more efficient and saving time, energy, and money.
+Software development is undergoing a profound transformation as GenAI
+becomes increasingly integrated into development practices. This brand
+new course ensures that our students are not only aware of these
+developments but are also prepared to lead in this new era. In this
+class, students (i) understand the capabilities and limitations of GenAI
+systems deployed in production or in research; (ii) Learn to critically
+assess AI-assisted development workflows; (iii) Gain hands-on experience
+using GenAI in tasks such as testing, debugging, code synthesis, and
+refactoring.
 
 In this highly interactive, Seminar-style class featuring
 Instructor-guided exploration and student-led discussions, we will be
-investigating (i) innovative use of IoT software systems (compelling
-applications) and (ii) the research technical thrusts that enable the
-exciting applications of the future. Our exploration will consist of
-in-class discussions of the literature, interactions with industry
-thought leaders, and team projects that encourage risk taking.
+investigating (i) innovative use of GenAI in software engineering
+processes and tasks (compelling applications) and (ii) the research
+technical thrusts that enable the exciting applications of the future.
+Our exploration will consist of in-class discussions of the cutting-edge
+research literature, interactions with industry thought leaders, and
+team projects that encourage risk taking.
 
 The course will offer an opportunity for students to pursue
-research-oriented or novel industrial term projects in small teams (2-3
+research-oriented or novel industrial term projects in small teams (3-4
 students). Students may pursue any project of their choosing that
-explores the intersection of IoT systems with one of the following
-thrusts: ML/AI, Edge Computing, SE, PL, Security/Privacy, Human Factors.
+explores the intersection of GenAI with processes and tools used in
+Software Engineering.
 
-The course will offer several opportunities for interactions with the
-movers and shakers in IoT from industry and government research labs.
-Prof Dig will facilitate discussions with industry executives that are
-partnering with the PPICenter.org headquartered at CU, led by Prof Dig.
-The class will also feature live discussions with the key industry
-thought leaders from the IoT World, the largest IoT industry tradeshow
-in the world.
+The course will offer several opportunities for learning from the
+movers and shakers in GenAI from industry and academic research labs.
+
+
 
 COURSE OBJECTIVES
 
-- expand student's knowledge more broadly about IoT research & practice through reading research papers and industry surveys
+- expand student's knowledge more broadly about GenAI-based Software Engineering research & practice through reading research papers and industry surveys
 - develop critical thinking abilities by being able to assess the quality of published research and pose new research questions
 - practice giving scientific presentations and teaching others
-- engage in active learning activities in class, such as student-guided discussions on research and applications for IoT
+- engage in active learning activities in class, such as student-guided discussions on research and applications for GenAI in Software Engineering
 - practice developing a research or novel-industrial software development project through all its stages: formulating a research problem, posing research questions, gathering related work, designing a solution, evaluating the solution empirically, writing a research paper
-- practice engaging in dialogue with C-level executives from the various IoT verticals (smart transportation, precision ag, smart manufacturing, digital health, etc).
+- practice engaging in dialogue with thought leaders in GenAI Software Engineering.
 - have fun learning
 
 
 Some logistics for the first week of class. The first class
-will be held this Tue, Jan 11 from 2-3:15pm on Zoom 
+will be held this Thu, Aug 21 from 2-3:15pm in Discovery
+Learning Center (DLC) 1B70.
+
+The majority of the subsequent classes will be held on Zoom 
 (VIP: you need to login with your CU Boulder credentials on Zoom):
-https://cuboulder.zoom.us/j/96670974495 
+https://cuboulder.zoom.us/j/98033152097
 
 Here are some items for you to accomplish right after the first
 class:
@@ -77,19 +83,19 @@ class:
 Our course webpage contains a wealth of information, including how to
 communicate with the staff and other colleagues (e.g., through Piazza),
 readings schedule for the first meetings, etc:
-https://danny.cs.colorado.edu/courses/csci7000-008_Sp22/
+https://danny.cs.colorado.edu/courses/csci7000-011_F25/index.html
 
 2) Since we will read and discuss several research papers in this class
-(we will read and conduct research and novel development on IoT), read this excellent resource on 
-how to Read an Engineering Research paper (by William Griswold):
+(we will read and conduct research and novel development using GenAI), read this 
+excellent resource on how to Read an Engineering Research paper (by William Griswold):
 http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html
 
 3) Sign up on Piazza:
-http://piazza.com/colorado/spring2022/csci7000008
+https://piazza.com/colorado/fall2025/csci7000011
 After this email, all the communication will be on Piazza.
 
 
-Looking forward to seeing you in class this Tue.
+Looking forward to seeing you in class this Thu.
 
 
 Danny Dig
