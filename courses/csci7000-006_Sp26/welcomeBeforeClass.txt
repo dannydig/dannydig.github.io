@@ -1,0 +1,127 @@
+Dear grad students in the course on Building Software with Agentic Components,
+
+Happy New Semester! I hope that your first week of classes ended well
+and you are looking forward to the second week of the semester (and the
+first session of our class).
+
+I am Prof Danny Dig, and I am excited to teach the class on Building AI
+Software Agents (CSCI 7000-005). As I am living out of state, I am
+flying to CU specifically to meet you and I am looking forward to seeing
+you this Mon (Jan 12 at 5:05pm) in ECES 114 for our first day of class.
+The majority of the classes going forward will be on Zoom --
+https://cuboulder.zoom.us/j/93001879338 (you need to authenticate with
+your colorado.edu credentials). For this very first class on Mon, Jan
+12th at 5:05pm I invite you to connect and meet in person. 
+
+We are doing a few things differently from other classes that you took
+in the past, so please pay attention to the instructions for this first
+week of class. Please notice that in order to be enrolled and be
+successful in this class, you need to have a good foundation of Software
+Engineering, as demonstrated by undergrad courses at CU. This is NOT an
+introductory grad course to Software Engineering, for those students we
+recommend other grad courses such as Foundations of Software Engineering
+(CSCI 5828). This course assumes you are a competent software engineer
+already -- we are looking into how you can augment your current skills
+to include using and building GenAI-powered Agents. If you are not sure
+about any of these, please  speak with me after the class.
+
+
+ABOUT THE COURSE
+
+The purpose of this research course is to expose students to seminal
+topics and recent trends in the field of GenAI-powered Software Agents.
+
+This graduate-level course explores the rapidly emerging paradigm of
+building software systems with agentic components -— autonomous,
+reasoning, and goal-directed software entities that can perceive
+context, collaborate, and take initiative. The course has two central
+goals: (i) to critically read and discuss state-of-the-art research
+papers on AI agents, multi-agent collaboration, and agentic AI in
+software engineering, and (ii) to gain practical experience designing,
+implementing, and evaluating an agentic system.
+
+In this highly interactive, seminar-style class, students will engage in
+instructor-guided discussions, student-led paper presentations, and
+hands-on labs exploring current agent frameworks and architectures. The
+course will culminate in a team-based term project—either
+research-oriented or prototype-driven—that demonstrates creativity,
+technical rigor, and a deep understanding of how agentic components can
+transform modern software systems.
+
+Our exploration consists of in-class discussions of the cutting-edge
+research literature, interactions with industry thought leaders, and
+team projects that encourage risk taking.
+
+The course offers an opportunity for students to pursue
+research-oriented or novel industrial term projects in small teams (3-4
+students). Students may pursue any project of their choosing that
+explores building software systems powered by Agentic components.
+
+The course offers several opportunities to learn from the movers and
+shakers in Agentic AI from industry and academic research labs.
+
+
+COURSE OBJECTIVES
+
+- expand student's knowledge more broadly about AI Agents research
+& practice through reading research papers and industry surveys
+- develop critical thinking abilities by being able to assess the quality
+of published research and pose new research questions
+
+- practice giving scientific presentations and teaching others
+- engage in active learning activities in class, such as student-guided
+discussions on research and applications of agentic AI
+
+- practice developing a research or novel-industrial software
+development project through all its stages: formulating a research
+problem, posing research questions, gathering related work, designing a
+solution, evaluating the solution empirically, writing a research paper
+
+- practice engaging in dialogue with thought leaders in agentic AI.
+
+- have fun learning
+
+
+Some logistics for the first week of class. The first class
+will be held this Mon, Jan 12 from 5:05-6:20pm in ECES 114.
+
+The majority of the subsequent classes will be held on Zoom 
+(VIP: you need to login with your CU Boulder credentials on Zoom):
+https://cuboulder.zoom.us/j/93001879338
+
+Here are some items for you to accomplish right after the first
+class:
+
+1) Read course syllabus (and other info) on the class webpage. Our
+course webpage contains a wealth of information, including how to
+communicate with the staff and other colleagues (e.g., through Piazza),
+readings schedule for the first meetings, etc:
+https://danny.cs.colorado.edu/courses/csci7000-005_Sp26/index.html
+
+2) Since we will read and discuss several research papers in this class
+(we will read and conduct research and novel development using GenAI),
+read this excellent resource on how to Read an Engineering Research
+paper (by William Griswold):
+http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html
+
+3) Sign up on Piazza:
+https://piazza.com/colorado/spring2026/csci7000005
+
+After this email, all the communication will be on Piazza.
+
+Looking forward to seeing you in class this Mon.
+
+
+Danny Dig
+---
+Associate Professor, CS at University of Colorado,
+Adjunct Professor, CS Department, University of Illinois, OSU
+http://danny.cs.colorado.edu
+
+Executive Director, Coach, Teacher and Speaker with The John Maxwell Team
+
+Executive Director and Founder, Center on Pervasive Personalized Intelligence (PPI)
+http://ppicenter.org
+
+"The two most important days in your life are the day you are born and
+the day you discover why" -- Mark Twain
